@@ -3,6 +3,12 @@
 ## **Note**
 This project was built upon **Brian Winn's** game development course on Coursera. Huge appreciation for his guidance and insights! !!!
 
+## **What was Added**
+UI
+Added levels
+Music
+Extra interactivity like Pause canva, and more.
+
 ## **Overview**
 **Box Hunter** is a **fast-paced first-person shooter** set in the depths of space. 
 Players must **blast floating crates** to survive—some grant extra time, others boost your score, 
